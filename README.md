@@ -2,6 +2,9 @@
 
 _A simple node library for Embarke, built off SendGrid's node library._
 
+[![Build Status](https://travis-ci.org/nquinlan/barke.svg?branch=master)](https://travis-ci.org/nquinlan/barke)
+[![NPM version](https://badge.fury.io/js/barke.svg)](http://badge.fury.io/js/barke)
+
 ## Usage
 
 This library may be used just as [SendGrid's Node library](https://github.com/sendgrid/sendgrid-nodejs), however it further implements [Embarke's API options](http://www.embarke.com/embarke-web-api/):
