@@ -1,16 +1,16 @@
 {
   "name": "barke",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple node library for Embarke, built off SendGrid's node library",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --grep '#skip'"
   },
-  "repository": { 
+  "repository": {
     "type": "git",
     "url": "http://github.com/nquinlan/barke.git"
   },
-  "author": "Nick Quinlan",
+  "author": "Nick Quinlan <nick@nicholasquinlan.com>",
   "license": "MIT",
   "dependencies": {
     "sendgrid": "1.1.0"
