@@ -1,4 +1,4 @@
-[![barke](https://raw.githubusercontent.com/nquinlan/barke/resources/barke.png)](#barke) <a name="barke"></a>
+# barke ![](https://raw.githubusercontent.com/nquinlan/barke/983ff9fb620268997b265923662edcc02b06cc69/barke.png)
 
 _A simple node library for Embarke, built off SendGrid's node library._
 
