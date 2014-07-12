@@ -1,5 +1,4 @@
-<p align="right"><img src="https://raw.githubusercontent.com/nquinlan/barke/resources/barke.png"></p>
-# barke
+[![barke](https://raw.githubusercontent.com/nquinlan/barke/resources/barke.png)](#barke) <a name="barke"></a>
 
 _A simple node library for Embarke, built off SendGrid's node library._
 
