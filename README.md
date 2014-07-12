@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/nquinlan/barke/resources/barke.png" style="float: right;">
 # barke
 
 _A simple node library for Embarke, built off SendGrid's node library._
