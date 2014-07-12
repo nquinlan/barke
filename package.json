@@ -11,6 +11,9 @@
     "url": "http://github.com/nquinlan/barke.git"
   },
   "author": "Nick Quinlan <nick@nicholasquinlan.com>",
+  "maintainers" : [
+    "Nick Quinlan <nick@nicholasquinlan.com>"
+  ],
   "license": "MIT",
   "dependencies": {
     "sendgrid": "1.1.0"
