@@ -112,8 +112,10 @@ var barke  = require("barke")(api_user, api_key);
 var email     = new barke.Email({to: "person@email.com"});
 email.to      = "different@email.com";
 email.subject = "This is a subject";
-email.embarkeapi.maxSendHours = 48;
+email.embarkeapi = { maxSendHours: 48 };
 ```
+
+_However, `embarkeapi` does not exist by default, and you'll need to check and see if you need to create the object before using it. Therefore it's better to use the [Embarke Specific Methods](#embarke-specific-parameters) provided by the library._
 
 #### SendGrid Default Parameters
 There are a number of SendGrid default parameters that can be set using [a variety of methods](https://github.com/sendgrid/sendgrid-nodejs#setting-params) provided in the [SendGrid Node Library Documentation](https://github.com/sendgrid/sendgrid-nodejs#setting-params).
