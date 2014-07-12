@@ -161,7 +161,7 @@ barke.send(email, function(err, json) { });
 ##### setCampaignId
 ```js
 var email = new barke.Email(); 
-email.setMaxSendHours("The Coolest Campaign Ever");
+email.setCampaignId("The Coolest Campaign Ever");
 barke.send(email, function(err, json) { });
 ```
 
